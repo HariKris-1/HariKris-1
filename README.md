@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hari
-- 👀 I’m in love with the tech world and the coding world.
-- 🌱 I’m currently learning Java and DSA.
+- 👀 I love books, movies, coding and listening to podcasts(lmk if you have any recommendations)
+- 🌱 Pursuing bachelor's in CS engineering and specializing in Data Science.
 - 📫 Reach me throgh my email ID- tsharikrishna123@gmail.com
 
 
