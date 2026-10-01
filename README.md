@@ -36,7 +36,7 @@
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="160" alt="Coding GIF" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="160" alt="Coding GIF" />
 
 </td>
 
