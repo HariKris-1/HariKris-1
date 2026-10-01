@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="art/banner-dark.png" width="100%" alt="Hari Krishnan — Data Science × AI × Software Engineering">
+  <img
+    src="https://raw.githubusercontent.com/HariKris-1/HariKris-1/main/art/banner-dark.png"
+    width="100%"
+    alt="Hari Krishnan — Data Science × AI × Software Engineering"
+  >
 </p>
 
 <br>
