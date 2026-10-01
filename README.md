@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./art/banner-dark.png">
-    <img src="./art/banner-dark.png" alt="Hari Krishnan Banner" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./art/banner-cyberpunk.jpg">
+    <img src="./art/banner-cyberpunk.jpg" alt="Hari Krishnan Cyberpunk Banner" width="100%">
   </picture>
 </p>
 
@@ -10,17 +10,17 @@
 </p>
 
 <h1 align="center">
-  I'm <span style="color:#00C2FF;">Hari Krishnan</span>
+  I'm <span style="color:#FF00FF;">Hari Krishnan</span>
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=00C2FF&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=Data+Scientist;AI+Builder;Software+Engineer;Problem+Solver"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=FF00FF&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=Data+Scientist;AI+Builder;Software+Engineer;Problem+Solver"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/HariKris-1?style=for-the-badge&logo=github&label=Followers&color=00C2FF" />
-  <img src="https://img.shields.io/github/stars/HariKris-1?style=for-the-badge&logo=github&label=Stars&color=00C2FF" />
-  <img src="https://komarev.com/ghpvc/?username=HariKris-1&style=for-the-badge&color=00C2FF"/>
+  <img src="https://img.shields.io/github/followers/HariKris-1?style=for-the-badge&logo=github&label=Followers&color=FF00FF" />
+  <img src="https://img.shields.io/github/stars/HariKris-1?style=for-the-badge&logo=github&label=Stars&color=FF00FF" />
+  <img src="https://komarev.com/ghpvc/?username=HariKris-1&style=for-the-badge&color=FF00FF"/>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 </td>
 
 <td width="35%" align="center" valign="middle">
-<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="220" alt="MindSphere GIF" />
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="220" alt="Action Packed GIF" />
 </td>
 
 </tr>
@@ -55,40 +55,56 @@
 <h2 align="center">💼 Selected Work</h2>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/31edfb91-6645-4b85-b273-b5280b342e0b" width="300" alt="Thoughts going through my brain">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="300" alt="Multi Screen Analysis">
 </p>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/HariKris-1/document-scanner-vlm">Document Scanner / VLM</a></h3>
-      <i>AI / Vision-Language Models</i><br>
-      <b>OCR-free document information extraction using fine-tuned VLMs.</b><br>
-      Built a multimodal pipeline that extracts structured fields directly from raw images by fine-tuning Qwen2-VL with LoRA, evaluated against dynamic visual degradations.<br><br>
-      <code>PyTorch</code> <code>Transformers</code> <code>Qwen2-VL</code> <code>LoRA</code>
+      <h3><a href="https://github.com/HariKris-1/devflow-ai">DevFlow-AI</a></h3>
+      <i>AI / Developer Tools</i><br>
+      <b>AI-powered GitHub Engineering Assistant.</b><br>
+      Built an intelligent assistant for repository chat, semantic code search, PR reviews, and automated documentation using modern GenAI pipelines.<br><br>
+      <code>TypeScript</code> <code>GenAI</code> <code>RAG</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/HariKris-1/IBM-Telco-Churn-Prediction-Dashboard">IBM Telco Churn Prediction</a></h3>
-      <i>Machine Learning / Data Science</i><br>
-      <b>Customer churn prediction and simulated A/B testing platform.</b><br>
-      Engineered an ML pipeline analyzing 7,000+ customers using Random Forest and Logistic Regression, deployed as an interactive Streamlit analytics dashboard.<br><br>
-      <code>Python</code> <code>Scikit-learn</code> <code>SciPy</code> <code>Streamlit</code>
+      <h3><a href="https://github.com/HariKris-1/document-scanner-vlm">Document Scanner / VLM</a></h3>
+      <i>AI / Vision-Language Models</i><br>
+      <b>OCR-free document information extraction.</b><br>
+      Built a multimodal pipeline extracting structured fields directly from raw images by fine-tuning Qwen2-VL with LoRA, evaluated on dynamic visual degradations.<br><br>
+      <code>PyTorch</code> <code>Transformers</code> <code>Qwen2-VL</code> <code>LoRA</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HariKris-1/InsightAgent">InsightAgent</a></h3>
+      <i>Applied AI / LangChain</i><br>
+      <b>Autonomous multi-step business analyst agent.</b><br>
+      Developed an agentic business analyst powered by LangChain and OpenAI, demonstrating autonomous problem-solving and insights generation over local data.<br><br>
+      <code>Python</code> <code>LangChain</code> <code>OpenAI API</code> <code>Agents</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HariKris-1/Meridian">Meridian</a></h3>
+      <i>Data Engineering / Full-Stack Platform</i><br>
+      <b>End-to-end streaming ingestion and visualization.</b><br>
+      Architected a pipeline running Kafka event streams through FastAPI into Postgres, applying dbt transformations to power a Neo4j graph and Streamlit dashboard.<br><br>
+      <code>Kafka</code> <code>dbt</code> <code>PostgreSQL</code> <code>Neo4j</code> <code>FastAPI</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/HariKris-1/BusinessInsights-AI">BusinessInsights-AI</a></h3>
-      <i>Data Systems / Applied AI</i><br>
-      <b>Business Intelligence platform with automated NLP-to-SQL analytics.</b><br>
-      Developed an end-to-end BI dashboard that processes retail sales data and leverages the OpenAI API to surface actionable AI-generated insights.<br><br>
+      <i>Data Systems / BI Platform</i><br>
+      <b>AI-powered Sales & Business Intelligence.</b><br>
+      Automates business insights, executive reporting, and natural language-to-SQL analytics using Generative AI workflows.<br><br>
       <code>Python</code> <code>FastAPI</code> <code>OpenAI API</code> <code>Plotly Dash</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/HariKris-1/Meridian">Meridian</a></h3>
-      <i>Data Engineering / Full-Stack Platform</i><br>
-      <b>End-to-end streaming ingestion, transformation, and visualization.</b><br>
-      Architected a pipeline running Kafka event streams through FastAPI into Postgres, applying dbt transformations to power a Neo4j knowledge graph and Streamlit dashboard.<br><br>
-      <code>Kafka</code> <code>dbt</code> <code>PostgreSQL</code> <code>Neo4j</code> <code>FastAPI</code>
+      <h3><a href="https://github.com/HariKris-1/ShortLink">ShortLink</a></h3>
+      <i>Backend Engineering / Cloud Architecture</i><br>
+      <b>Scalable URL-shortening service.</b><br>
+      Built a high-concurrency service with AWS, Redis, and serverless architecture, featuring token-bucket rate limiting and asynchronous processing with SQS.<br><br>
+      <code>AWS</code> <code>Redis</code> <code>SQS</code> <code>Docker</code> <code>CI/CD</code>
     </td>
   </tr>
 </table>
@@ -100,7 +116,7 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" alt="Floating Stack">
+<img src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" width="300" alt="Overflowing Visuals">
 </p>
 
 <p align="center">
@@ -114,11 +130,11 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=HariKris-1&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=00C2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+<img src="https://streak-stats.demolab.com?user=HariKris-1&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF&sideLabels=FF00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HariKris-1&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&area_color=0088FF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HariKris-1&bg_color=0D1117&color=FF00FF&line=EF93C4&point=FFFFFF&area=true&area_color=7A00FF&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -146,5 +162,5 @@
 See you in the next commit 🚀
 </p>
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0088FF,50:00C2FF,100:0055FF&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:AA00FF,100:00C2FF&height=140&section=footer"/>
 </p>
