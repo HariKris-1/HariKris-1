@@ -1,205 +1,104 @@
-<div align="center">
-  <img src="art/banner-dark.png" alt="Hari Krishnan" width="100%" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HariKris-1/HariKris-1/main/art/banner-dark.png">
+    <img src="https://raw.githubusercontent.com/HariKris-1/HariKris-1/main/art/banner-dark.png" alt="Hari Krishnan Banner" width="100%">
+  </picture>
+</p>
 
-<br>
+<h1 align="center">
+  Hey there, I'm <span style="color:#00C2FF;">Hari</span>
+</h1>
 
-<div align="center">
-  <h1>Hey, I'm Hari 👋</h1>
-  <p><b>Computer Science & Engineering student specializing in Data Science,<br>building AI-powered products, ML systems and data-driven applications.</b></p>
-  <p><i>Problem → Data → Model → Product</i></p>
-  <br>
-  <p>
-    <a href="https://harikris-1.github.io">Portfolio</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/ts-harikrishnan/">LinkedIn</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="https://leetcode.com/u/Maybe_Hari/">LeetCode</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="mailto:tsharikrishna123@gmail.com">Email</a>
-  </p>
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=00C2FF&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=Data+Scientist;AI+Builder;Software+Engineer;Problem+Solver"/>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/github/followers/HariKris-1?style=for-the-badge&logo=github&label=Followers&color=00C2FF" />
+  <img src="https://img.shields.io/github/stars/HariKris-1?style=for-the-badge&logo=github&label=Stars&color=00C2FF" />
+  <img src="https://komarev.com/ghpvc/?username=HariKris-1&style=for-the-badge&color=00C2FF"/>
+</p>
 
-<br>
+<h2 align="center">👩‍💻 About Me</h2>
 
-## 🔭 What I Build
+<table align="center">
+<tr>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <h3>🤖 AI Products</h3>
-      <p>LLM-powered applications, intelligent workflows and knowledge systems.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>📊 Data Systems</h3>
-      <p>Machine learning pipelines, analytics, prediction and data products.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>⚙️ Software</h3>
-      <p>Full-stack applications, backend systems and scalable engineering.</p>
-    </td>
-  </tr>
+<td width="65%" valign="top">
+
+- 💻 Computer Science & Engineering student specializing in Data Science.
+- 🌱 Currently exploring Generative AI and Advanced Machine Learning Systems.
+- 🚀 Building AI-powered products and contributing to intelligent workflows.
+- 🎯 Goal: Transform complex data into accessible, real-world solutions.
+- 🌌 Passionate about artificial intelligence, software engineering, and elegant code.
+- ✨ Always learning, always building.
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="160" alt="Coding GIF" />
+
+</td>
+
+</tr>
 </table>
 
-<br>
+<h2 align="center">💻 Tech Stack</h2>
 
-## ⚡ Currently Building
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,java,js,ts,react,nextjs,nodejs,spring,fastapi,postgres,mongodb,git,github,docker,linux,vscode,figma&perline=16"/>
+</p>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <h3>AntiHoard</h3>
-      <p><b>Turn your video backlog into searchable knowledge.</b></p>
-      <br>
-      <p><code>VIDEO</code> ➔ <code>TRANSCRIPT</code> ➔ <code>AI ANALYSIS</code> ➔ <code>KNOWLEDGE</code> ➔ <code>SEARCH · QUIZ · NOTES</code></p>
-      <br>
-      <p><i>Next.js • TypeScript • AI • Prisma • Tailwind CSS</i></p>
-      <p><i>(Links pending public release)</i></p>
-    </td>
-  </tr>
-</table>
+<h2 align="center">📈 GitHub Analytics</h2>
 
-<br>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=HariKris-1&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=00C2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+</p>
 
-## 🚀 Featured Work
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HariKris-1&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&area_color=0088FF&hide_border=true"/>
+</p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%">
-      <h3>📄 Document Scanner</h3>
-      <p><b>Structured document field extraction.</b></p>
-      <p>Fine-tuning Qwen2-VL using LoRA for OCR-free document information extraction with robustness evaluation.</p>
-      <p><i>Python • Qwen2-VL • LoRA • PyTorch</i></p>
-      <br>
-      <a href="https://github.com/HariKris-1/document-scanner-vlm"><b>GITHUB →</b></a>
-    </td>
-    <td width="50%">
-      <h3>📉 IBM Telco Churn</h3>
-      <p><b>End-to-end ML & analytics application.</b></p>
-      <p>Exploratory analysis, customer-level churn prediction, ROC curve tracking, and downloadable SQL reports.</p>
-      <p><i>Python • Scikit-learn • Streamlit • Plotly</i></p>
-      <br>
-      <a href="https://github.com/HariKris-1/IBM-Telco-Churn-Prediction-Dashboard"><b>GITHUB →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏢 Meridian</h3>
-      <p><b>Retail intelligence & analytics platform.</b></p>
-      <p>Ingesting streaming data into a medallion warehouse. Features a Neo4j knowledge graph and MLflow tracking.</p>
-      <p><i>Kafka • Neo4j • MLflow • Airflow • Streamlit</i></p>
-      <br>
-      <a href="https://github.com/HariKris-1/Meridian"><b>GITHUB →</b></a>
-    </td>
-    <td width="50%">
-      <h3>🚗 Uber Platform</h3>
-      <p><b>Production-grade ride-hailing system.</b></p>
-      <p>Real-time driver matching, live GPS tracking, dynamic fare calculation, and AI-powered ride assistance.</p>
-      <p><i>MERN • MongoDB • WebSockets • Socket.IO</i></p>
-      <br>
-      <a href="https://github.com/HariKris-1/Uber"><b>GITHUB →</b></a>
-    </td>
-  </tr>
-</table>
+<h2 align="center"> 🐍 Contribution Graph </h2>
 
-<br>
+<p align="center">
+  <img src="https://github.com/HariKris-1/HariKris-1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
 
-## 🛠 Tech Stack
+<!--
+To enable the snake animation:
 
-<div align="center">
-  <p><b>Languages</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/Python-1A1B26?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Java-1A1B26?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/TypeScript-1A1B26?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/JavaScript-1A1B26?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/SQL-1A1B26?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-  </p>
+1. Create a GitHub Action in this repository.
+2. Use Platane/snk to generate the SVG every day.
+3. Commit the generated file into:
+   output/github-contribution-grid-snake.svg
+-->
 
-  <p><b>AI & Machine Learning</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/PyTorch-1A1B26?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-    <img src="https://img.shields.io/badge/Scikit--learn-1A1B26?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-    <img src="https://img.shields.io/badge/Pandas-1A1B26?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/NumPy-1A1B26?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-    <img src="https://img.shields.io/badge/Computer_Vision-1A1B26?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision"/>
-    <img src="https://img.shields.io/badge/NLP-1A1B26?style=flat-square&logo=openai&logoColor=white" alt="NLP"/>
-  </p>
+<h2 align="center">🌐 Let's Connect</h2>
 
-  <p><b>Frontend & Backend</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/React-1A1B26?style=flat-square&logo=react&logoColor=white" alt="React"/>
-    <img src="https://img.shields.io/badge/Next.js-1A1B26?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-1A1B26?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-    <img src="https://img.shields.io/badge/Node.js-1A1B26?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express-1A1B26?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-    <img src="https://img.shields.io/badge/Spring_Boot-1A1B26?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  </p>
+<p align="center">
 
-  <p><b>Databases & Tools</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/PostgreSQL-1A1B26?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/MongoDB-1A1B26?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/Git-1A1B26?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Docker-1A1B26?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Linux-1A1B26?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
-  </p>
-</div>
+<a href="https://linkedin.com/in/ts-harikrishnan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br>
+<a href="https://github.com/HariKris-1">
+<img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 📊 Signals & Learning
+<a href="https://leetcode.com/u/Maybe_Hari/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <h3>225+</h3>
-      <p><b>DSA Problems Solved</b></p>
-    </td>
-    <td align="center" width="50%">
-      <h3>75+</h3>
-      <p><b>LeetCode Problems</b></p>
-    </td>
-  </tr>
-</table>
+<a href="mailto:tsharikrishna123@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br>
+</p>
 
-<div align="center">
-  <p>🏆 <b>NPTEL</b> — Natural Language Processing <i>(IIT Kharagpur)</i></p>
-  <p>🏆 <b>IBM</b> — Introduction to Artificial Intelligence <i>(Coursera)</i></p>
-  <p>🏆 <b>AI Planet</b> — Data Science Bootcamp</p>
-</div>
-
-<br>
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HariKris-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariKris-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/8A2BE2/HariKris-1" alt="Hari's GitHub Contribution Graph" width="100%" />
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-  <h2>Let's Connect</h2>
-  <br>
-  <p>
-    <a href="https://harikris-1.github.io">Portfolio</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/ts-harikrishnan/">LinkedIn</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="https://leetcode.com/u/Maybe_Hari/">LeetCode</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="mailto:tsharikrishna123@gmail.com">Email</a>
-  </p>
-  <br>
-  <p><i>Building intelligent products & ML systems</i></p>
-</div>
+<p align="center" >
+See you in the next commit 🚀
+</p>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0088FF,50:00C2FF,100:0055FF&height=140&section=footer"/>
+</p>
