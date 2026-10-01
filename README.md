@@ -1,16 +1,12 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./art/banner-cyberpunk.jpg">
-    <img src="./art/banner-cyberpunk.jpg" alt="Hari Krishnan Cyberpunk Banner" width="100%">
+    <img src="./art/banner-cyberpunk.jpg" alt="Hari Krishnan Cyberpunk Banner" width="100%" style="border-radius: 15px;">
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" alt="animated hello">
-</p>
-
 <h1 align="center">
-  I'm <span style="color:#FF00FF;">Hari Krishnan</span>
+  Hi there <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="35" alt="Waving Hand" style="vertical-align: middle;" /> I'm <span style="color:#FF00FF;">Hari Krishnan</span>
 </h1>
 
 <p align="center">
