@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./art/banner-cyberpunk.jpg">
-    <img src="./art/banner-cyberpunk.jpg" alt="Hari Krishnan Cyberpunk Banner" width="100%" style="border-radius: 15px;">
-  </picture>
+  <img src="./art/banner-ai.jpg" width="100%" alt="Hari Krishnan — AI, Data & Software">
 </p>
 
 <h1 align="center">
@@ -10,7 +7,7 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=FF00FF&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=Data+Scientist;AI+Builder;Software+Engineer;Problem+Solver"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=400&size=28&duration=3500&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Building+What+Should+Exist;Data+In,+Intelligence+Out;Ideas+In,+Systems+Out;Currently+Building+Something" />
 </p>
 
 <p align="center">
@@ -129,9 +126,7 @@
 <img src="https://streak-stats.demolab.com?user=HariKris-1&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF&sideLabels=FF00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HariKris-1&bg_color=0D1117&color=FF00FF&line=EF93C4&point=FFFFFF&area=true&area_color=7A00FF&hide_border=true"/>
-</p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
