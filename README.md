@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./art/banner-ai.jpg" width="100%" alt="Hari Krishnan — AI, Data & Software">
+  <img src="./art/banner.png" width="100%" alt="Hari Krishnan — AI, Data & Software">
 </p>
 
 <h1 align="center">
