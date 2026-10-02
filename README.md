@@ -1,14 +1,13 @@
 <p align="center">
-  <img src="./art/banner-redesign.jpg" width="100%" alt="Hari Krishnan — build, break, fix, ship">
+  <img src="./art/banner.png" width="100%" />
 </p>
 
 <br>
 <br>
 
-<h3 align="center">currently turning random ideas into things that actually work.</h3>
-
 <p align="center">
-CS + Data Science student who likes building software, breaking it, fixing it, and occasionally shipping it.
+currently turning random ideas<br>
+into things that actually work.
 </p>
 
 <br>
